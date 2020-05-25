@@ -1,0 +1,2 @@
+# blog
+Go course repository
